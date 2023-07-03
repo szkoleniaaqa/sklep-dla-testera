@@ -1,0 +1,7 @@
+pl/akademiaqa/dto/ProductDTO.class
+pl/akademiaqa/utils/Properties.class
+pl/akademiaqa/utils/StringUtils.class
+pl/akademiaqa/factory/BrowserFactory.class
+pl/akademiaqa/utils/EmailUtils.class
+pl/akademiaqa/dto/ProductDTO$ProductDTOBuilder.class
+pl/akademiaqa/utils/PageUtils.class
